@@ -1,0 +1,28 @@
+.card {
+    background-color: gray;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+}
+.card img{
+    height: 250px;
+    width: 250px;
+}
+.title {
+    color: black;
+    font-size: x-large;
+}
+button {
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+}
+button:hover {
+    background-color: red;
+}
+  
